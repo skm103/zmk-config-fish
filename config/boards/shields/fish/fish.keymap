@@ -154,7 +154,7 @@
 
         layer_system {
             bindings = <
-                        &bt BT_SEL 4 &bt BT_CLR &bt BT_CLR_ALL &out OUT_TOG     &C_AL_CALCULATOR      &kp INS     &kp PG_UP    &kp PG_DN   
+                        &bt BT_SEL 4 &bt BT_CLR &bt BT_CLR_ALL &out OUT_TOG     &kp C_AL_CALC      &kp INS     &kp PG_UP    &kp PG_DN   
 &kp F1      &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &kp F6          &kp F7      &kp C_PREV  &kp C_PP    &kp C_NEXT   &kp K_APP   &kp F12     
             &kp F2      &kp F3      &kp F4      &kp F5                                      &kp F8      &kp F9      &kp F10     &kp F11     
                                                 &none       &none               &none       &none       
