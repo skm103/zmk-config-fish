@@ -109,7 +109,7 @@
 
         layer_math {
             bindings = <
-                        &kp N1      &kp N2      &kp N3      &trans              &kp INT1   &kp LT      &kp EQUAL   &kp GT      
+                        &kp N1      &kp N2      &kp N3      &trans              &kp NUHS   &kp LT      &kp EQUAL   &kp GT      
 &kp PLUS    &kp N0      &mt LGUI N4 &mt LALT N5 &mt LSHFT N6 &kp DOT            &kp LS(MINUS) &mt RSHFT COLON &mt RALT MINUS &mt RGUI DQT &kp FSLH &kp PRCNT 
             &kp DLLR    &kp N7      &kp N8      &kp N9                                      &kp EXCL    &kp QMARK   &kp SQT     &kp SEMI    
                                                 &none       &trans              &trans      &lt 6 SPACE 
