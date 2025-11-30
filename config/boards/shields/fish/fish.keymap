@@ -110,8 +110,8 @@
         layer_math {
             bindings = <
                         &kp N1      &kp N2      &kp N3      &trans              &kp LS(INT1)   &kp LT      &kp EQUAL   &kp GT      
-&kp PLUS    &kp N0      &mt LGUI N4 &mt LALT N5 &mt LSHFT N6 &kp DOT            &kp LS(MINUS) &mt RSHFT COLON &mt RALT MINUS &mt RGUI DQT &kp FSLH &kp PRCNT 
-            &kp DLLR    &kp N7      &kp N8      &kp N9                                      &kp EXCL    &kp QMARK   &kp SQT     &kp SEMI    
+&kp PSCRN    &kp N0     &mt LGUI N4 &mt LALT N5 &mt LSHFT N6 &kp DOT            &kp LS(MINUS) &mt RSHFT COLON &mt RALT MINUS &mt RGUI DQT &kp FSLH &kp PRCNT 
+             &kp DEL    &kp N7      &kp N8      &kp N9                                      &kp EXCL    &kp QMARK   &kp SQT     &kp SEMI    
                                                 &none       &trans              &trans      &lt 6 SPACE 
             >;
         };
@@ -119,8 +119,8 @@
         layer_navi {
             bindings = <
                         &kp RBKT    &kp AT      &kp NUHS    &kp CARET           &kp C_VOL_UP &kp ESC    &kp UP      &kp C_AL_CALC 
-&kp LBKT    &kp HASH    &mt LGUI STAR &mt LALT AMPS &mt LSHFT LPAR &kp LS(INT3) &kp C_VOL_DN &kp LEFT   &kp DOWN    &kp RIGHT   &kp C_BRI_UP &kp PSCRN  
-            &kp INT1    &kp RBRC    &kp LBRC    &kp TILDE2                                  &kp DEL  &kp HOME    &kp END  &kp C_BRI_DN 
+&kp LBKT    &kp HASH    &mt LGUI STAR &mt LALT AMPS &mt LSHFT LPAR &kp LS(INT3) &kp C_VOL_DN &kp LEFT   &kp DOWN    &kp RIGHT   &kp C_BRI_UP   &kp PLUS
+            &kp INT1    &kp RBRC    &kp LBRC    &kp TILDE2                                  &kp DLLR  &kp HOME    &kp END  &kp C_BRI_DN 
                                                 &lt 6 BSPC  &trans              &trans      &none       
             >;
         };
